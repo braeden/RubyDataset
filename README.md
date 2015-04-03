@@ -11,21 +11,38 @@ It can be changed with Ruby URI.
 # Functions of the program:
 
 Download
+
 Calculate
+
 	Sum
+
 	Row Length
+
 	Average
+
 	Mean
+
 	Meadian
+
 	Mode
+
 	Range
+
 	Maximum
+
 	Minimum
+
 	Standard Deviation
+
 	Z-score output to CSV
+
 Lables
+
 Output
+
 	Column
+
 	Value from column and row
+
 Exit
 	
